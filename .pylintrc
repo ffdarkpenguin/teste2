@@ -1,0 +1,36 @@
+[MAIN]
+extension-pkg-whitelist=pydantic
+
+[MASTER]
+disable =
+    missing-module-docstring,
+    missing-class-docstring,
+    missing-function-docstring,
+    redefined-outer-name,
+    unspecified-encoding,
+    raise-missing-from,
+    attribute-defined-outside-init,
+    too-few-public-methods,
+    protected-access,
+    broad-except,
+    unused-private-member,
+    unnecessary-ellipsis,
+    typevar-name-incorrect-variance,
+    invalid-name,
+
+
+[BASIC]
+good-names=i,
+           j,
+           k,
+           v,
+           e,
+           _,
+           cu,
+           db,
+           dc,
+           hr,
+           dt,
+           dh,
+           f,
+           a

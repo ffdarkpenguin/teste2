@@ -1,0 +1,2 @@
+- O que fazer qdo usuário quiser limpar o valor do campo?
+(criar um usuario completo com update do dicionario de alteracao faz validacao dos campos)
